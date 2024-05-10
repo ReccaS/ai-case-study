@@ -14,11 +14,23 @@ OpenAI engages in various business activities to support its research and develo
 Overall, OpenAI's business activities are aligned with its mission of advancing AI in a way that benefits society while ensuring safety, ethics, and equitable access to AI technologies.
 
 ## Landscape
-* What field is the company in?
+* OpenAI operates within the expansive field of artificial intelligence (AI), concentrating on research, development, and advocacy in various AI domains. Its primary focus lies in advancing the capabilities of AI systems while ensuring their ethical and safe deployment. OpenAI's work encompasses several key areas, including natural language processing (NLP), computer vision, reinforcement learning, and AI ethics. One of the major trends in OpenAI's work is the development of large-scale language models, exemplified by the Generative Pre-trained Transformer (GPT) series, which have demonstrated remarkable abilities in understanding and generating human-like text. Additionally, OpenAI is actively involved in researching AI safety and alignment, striving to develop mechanisms to ensure AI systems adhere to human values and preferences. Ethical considerations are central to its mission, with OpenAI advocating for responsible AI development and governance. Furthermore, OpenAI explores the potential of AI for societal good, aiming to leverage AI technologies to address pressing challenges in healthcare, education, and environmental sustainability. Through its innovative research and initiatives, OpenAI continues to shape the trajectory of AI development, driving progress towards a future where AI benefits all of humanity.
+* OpenAI operates in a rapidly evolving and competitive landscape within the field of artificial intelligence (AI). Some of its biggest competitors include:
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+**Google AI (Google Brain):** Google Brain is a research team at Google focused on machine learning and AI. Google has made significant investments in AI research and development and has developed various AI technologies and products, including language models, computer vision systems, and AI-powered services like Google Assistant and Google Translate.
 
-* What are the other major companies in this field?
+**Facebook AI Research (FAIR):** Facebook's AI research division, FAIR, conducts cutting-edge research in AI and machine learning. FAIR has developed advanced AI technologies for applications such as natural language processing, computer vision, and reinforcement learning, and has contributed to the development of open-source AI frameworks and tools.
+
+**Microsoft Research:** Microsoft Research is Microsoft's research organization, which conducts research in various fields, including AI and machine learning. Microsoft has developed AI technologies and platforms such as Azure AI, Microsoft Cognitive Services, and conversational AI systems like Cortana.
+
+**DeepMind (acquired by Google):** DeepMind is a UK-based AI research company acquired by Google in 2014. DeepMind is known for its work in reinforcement learning and has developed AI systems that have achieved significant milestones, such as defeating human champions in complex games like Go and StarCraft II.
+
+**Amazon AI:** Amazon has invested in AI research and development through its Amazon AI division. Amazon AI is responsible for developing AI technologies and services for various applications, including natural language understanding, recommendation systems, and computer vision.
+
+**Baidu AI:** Baidu is a Chinese technology company known for its investments in AI research and development. Baidu's AI division focuses on areas such as autonomous driving, natural language processing, and healthcare AI.
+
+These companies represent some of the major players in the AI industry and compete with OpenAI in areas such as AI research, technology development, and the commercialization of AI products and services. However, it's worth noting that OpenAI also collaborates with some of these companies on research projects and initiatives aimed at advancing AI for the benefit of society.
+
 ## Results
 
 * What has been the business impact of this company so far?
