@@ -11,7 +11,7 @@
 * What specific problem is the company or project trying to solve?
 *Who is the company's intended customer? Is there any information about the market size of this set of customers?
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-# Landscape
+## Landscape
 * What field is the company in?
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
