@@ -48,8 +48,8 @@ By focusing on these strategic areas—customizable and data-augmented API solut
 
  ## Sources
  
-OpenAI About www.openai.com/about/
-ChatGPT  www.chatgpt.com
+OpenAI About https://openai.com/about/
+ChatGPT  https://chatgpt.com
 Google Search 
 Wikipedia https://en.wikipedia.org/wiki/OpenAI
 
